@@ -68,8 +68,11 @@ def execute(friend, messages):
     '''
     bot = Bot()
     bot.login(friend)
+
     time.sleep(10)
     bot.send_message(messages)
+    time.sleep(1)
+    
     del bot
 
 
