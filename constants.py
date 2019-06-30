@@ -1,0 +1,3 @@
+USERNAME = r''
+PASSWORD = r''
+FRIEND_USERNAME = r''
